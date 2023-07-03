@@ -1,0 +1,108 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-size;
+}
+
+#sec{
+	width:40%;
+	margin:50px auto;
+	border:1px solid black;
+	border-radius:20px;
+	padding:40px;
+	background-color:pink;
+	
+}
+
+.col1{
+	width:100%;
+	display:flex;
+	justify-content:space-between;
+}
+
+#search{
+	border:1px solid gray;
+	border-radius:10px;
+	padding:5px 300px 5px 5px;
+	color:gray;
+}
+
+.col2{
+	width:100%;
+	display:flex;
+	justify-content:space-between;
+	margin-top:20px;
+}
+
+.col3{
+	display:flex;
+	justify-content:space-between;
+	margin-top:20px;
+	flex-wrap:wrap;
+}
+
+.icon{
+	padding:10px 0px 10px 0px;
+	border:1px solid black;
+	border-radius:20px;
+	text-align:center;
+	width:20%;
+	margin:20px;
+	line-height:25px;
+	
+}
+
+.col4{
+	display:flex;
+	justify-content:space-between;
+	margin-top:20px;	
+}
+
+.col5{
+	display:flex;
+	justify-content:space-between;
+}
+.icon1{
+	padding:10px 0px 10px 0px;
+	border:1px solid black;
+	border-radius:20px;
+	text-align:center;
+	width:20%;
+	margin:20px;
+	line-height:25px;
+	
+}
+
+.col6, .col7{
+	display:flex;
+	margin:20px 0px 0px 0px;
+}
+
+.icon2{
+	padding:10px 20px 10px 0px;
+}
+
+.col8{
+	display:flex;
+	justify-content:space-between;
+	margin:30px 0px 0px 0px;
+	width:100%;
+	
+}
+
+#usage{
+	width:100%;
+	margin-top:20px;
+	
+}
+
+i:hover{
+	font-size:20px;
+}
+
+.col9{
+	display:flex;
+	text-align:center;
+	margin-top:20px;
+	justify-content:space-around;
+}
